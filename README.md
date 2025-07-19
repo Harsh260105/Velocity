@@ -156,21 +156,11 @@ The application uses the following core entities:
 - Environment variables for sensitive information
 - Cross-Origin Resource Policy implementation
 
-## 🧠 Future Enhancements
-
-- Email notifications for task assignments
-- Advanced reporting and analytics
-- Integration with third-party tools
-- Mobile application
-- AI-powered task prioritization
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👥 Contributors
 
-- Your Name - Initial work and development
+- [Harsh Patel](https://github.com/harsh260105)
+- [Hemax Patel](https://github.com/hemaxpatel)
+- [Het Patel](https://github.com/hetpatel203)
 
 ---
 

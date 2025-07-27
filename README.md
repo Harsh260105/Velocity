@@ -1,10 +1,10 @@
-# Velocity - Task Management Application
+# Velocity - Project Management Tool
 
 ![Velocity Logo](./client/public/logo.png)
 
 ## 🚀 Overview
 
-Velocity is a production-grade task management application designed for remote collaboration. It features user authentication, role-based access control, dynamic UI components, and full AWS cloud deployment.
+Velocity is a production-grade project management application designed for remote collaboration. It features user authentication, role-based access control, dynamic UI components, and full AWS cloud deployment.
 
 ## ✨ Features
 
